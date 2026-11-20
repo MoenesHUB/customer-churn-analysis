@@ -1,0 +1,5 @@
+pandas>=3.0
+matplotlib
+seaborn
+scikit-learn
+notebook
